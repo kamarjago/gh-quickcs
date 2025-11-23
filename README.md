@@ -1,4 +1,4 @@
-# gh-quickcs
+ # gh-quickcs
 
 A GitHub CLI extension that lets you quickly create a new codespace for a preconfigured repository.
 
